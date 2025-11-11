@@ -1,16 +1,9 @@
-# 🩺 Surgical Tool Segmentation App
-
+# 🩺 Surgical Image Analysis 
 This is a Streamlit web application that uses a U-Net deep learning model to identify and segment surgical tools in an uploaded image. The model was trained on the **CholecSeg8k** dataset and is designed to recognize instruments in frames from surgical videos.
-
------
 
 ## 🚀 Live Demo
 
-[](https://www.google.com/search?q=https://YOUR_STREAMLIT_APP_URL.streamlit.app)
-
-*(TODO: Replace the URL above with your actual Streamlit Cloud app link after you deploy it.)*
-
-
+https://surgical-segmentation-app-ivalruwt8uctevzck9kfaq.streamlit.app/
 
 ## ✨ Features
 
