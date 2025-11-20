@@ -1,9 +1,8 @@
 # 🩺 Surgical Image Analysis 
-This is a Streamlit web application that uses a U-Net deep learning model to identify and segment surgical tools in an uploaded image. The model was trained on the **CholecSeg8k** dataset and is designed to recognize instruments in frames from surgical videos.
+Modern minimally invasive surgeries generate large amounts of real-time video data, but manual interpretation is time-consuming and lacks quantitative precision. Surgeons often rely on visual estimation when assessing the size of tissues, lesions, or surgical targets, which can lead to variability and reduced accuracy. To address this challenge, this project proposes an AI-powered surgical video analysis system that automatically identifies, segments, and measures anatomical and surgical regions in laparoscopy/endoscopy videos.
 
-## 🚀 Live Demo
+The system is trained and evaluated using the CholecSeg8k surgical dataset, which consists of high-quality annotated frames extracted from cholecystectomy procedures. The video-based framework integrates multiple segmentation models and measurement pipelines, enabling a comprehensive comparison of techniques for real-world surgical assistance.
 
-https://surgical-segmentation-app-ivalruwt8uctevzck9kfaq.streamlit.app/
 
 ## ✨ Features
 
